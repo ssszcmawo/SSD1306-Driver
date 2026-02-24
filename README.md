@@ -11,8 +11,7 @@ The driver provides basic functionality for initializing the SSD1306 controller,
 - I2C communication with optional (unable now) DMA transfers
 - Command and data transmission to the SSD1306 controller
 - Frame buffer handling
-- Example code demonstrating basic usage
-
+- 
 ## Directory Structure
 
 - `src/` Source files of the driver
